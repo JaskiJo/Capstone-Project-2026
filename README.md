@@ -1,4 +1,5 @@
-> Collaborative project. My contributions: [commits](https://github.com/AryanMuk/Capstone-Project-2026/commits?author=JaskiJo) · [pull requests](https://github.com/AryanMuk/Capstone-Project-2026/pulls?q=author:JaskiJo). Original repo: https://github.com/AryanMuk/Capstone-Project-2026
+> Collaborative project. My contributions: [commits](https://github.com/AryanMuk/Capstone-Project-2026/commits?author=JaskiJo) · [pull requests](https://github.com/AryanMuk/Capstone-Project-2026/pulls?q=author:JaskiJo).Contributors graph: https://github.com/AryanMuk/Capstone-Project-2026/graphs/contributors
+Original repo: https://github.com/AryanMuk/Capstone-Project-2026
 
 
 
