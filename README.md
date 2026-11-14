@@ -1,3 +1,8 @@
+> Collaborative project. My contributions: [commits](https://github.com/AryanMuk/Capstone-Project-2026/commits?author=JaskiJo) · [pull requests](https://github.com/AryanMuk/Capstone-Project-2026/pulls?q=author:JaskiJo). Original repo: https://github.com/AryanMuk/Capstone-Project-2026
+
+
+
+
 # Template Protection Lab
 
 Evaluation of biometric template protection for CNN-based facial authentication (FaceNet 512-d embeddings).
